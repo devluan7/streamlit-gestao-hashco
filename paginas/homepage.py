@@ -18,9 +18,9 @@ botao_dashboards = coluna_esquerda.button("Dashboard Projetos")
 botao_indicadores = coluna_esquerda.button("Principais Indicadores")
 
 if botao_dashboards:
-    st.switch_page("dashboard.py")
+    st.switch_page("paginas/dashboard.py")
 if botao_indicadores:
-    st.switch_page("indicadores.py")
+    st.switch_page("paginas/indicadores.py")
 
 container = coluna_direita.container(border=True)
 container.image("imagens/time-comunidade.webp")
