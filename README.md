@@ -1,4 +1,4 @@
-# Projeto de Análise de Projetos
+# Gestão de Projetos e Análise de Dados com SQLAlchemy
 ### Este é um projeto desenvolvido com o Streamlit, Plotly e SQLAlchemy, com o objetivo de realizar análise de dados sobre projetos, como comparação de orçado vs pago, indicadores de status dos projetos e muito mais.
 
 Funcionalidades:
